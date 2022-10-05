@@ -11,7 +11,7 @@ h1,h2{
 }
 
 p{
-    color:darkslategray
+    color:darkslategray;
     letter-spacing: 3px;
     padding-left: 10%;
     background: black;

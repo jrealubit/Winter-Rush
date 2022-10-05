@@ -1,5 +1,18 @@
 h1{
     color:ghostwhite;
+}
+h2{
+    color:ghostwhite;
+    padding-left: 5%;
+}
+
+h1,h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-h2{color:ghostwhite;}
+
+p{
+    color:darkslategray
+    letter-spacing: 3px;
+    padding-left: 10%;
+    background: black;
+}

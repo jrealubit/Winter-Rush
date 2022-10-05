@@ -14,7 +14,7 @@ p{
     color:ghostwhite;
     letter-spacing: 3px;
     padding-left: 10%;
-    background: black;
+    background: aqua;
 
 }
 
@@ -22,4 +22,5 @@ a{
     color: #CC7722;
     text-decoration: none;
     padding: 1em 0;
+    display: block;
 }

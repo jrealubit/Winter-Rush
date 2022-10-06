@@ -15,11 +15,10 @@ h1,h2{
 }
 
 p{
-    color:ghostwhite;
-    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0;    
+    color:ghostwhite;   
     letter-spacing: 3px;
     padding-left: 10%;
-    background: aqua;
+    background: darkcyan;
 
 }
 
